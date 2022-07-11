@@ -1,4 +1,4 @@
-token = "OTk0NTIzMjcyNDk2NTU0MDQ0.GlveFP.tTRF86SDgr8jwngeGmNtDKOsYp2G_bUhAytHeQ"
+token = "your token"
 
 prefix = "."
 
